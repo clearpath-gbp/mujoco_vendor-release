@@ -49,11 +49,11 @@ tracks:
     name: upstream
     patches: null
     release_inc: '1'
-    release_repo_url: git@github.com:ros2-gbp/mujoco_vendor-release.git
+    release_repo_url: https://github.com/clearpath-gbp/mujoco_vendor-release.git
     release_tag: :{version}
     ros_distro: jazzy
     vcs_type: git
-    vcs_uri: https://github.com/pal-robotics/mujoco_vendor.git
+    vcs_uri: https://github.com/clearpathrobotics/mujoco_vendor.git
     version: :{auto}
   kilted:
     actions:
