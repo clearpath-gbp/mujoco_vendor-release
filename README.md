@@ -1,3 +1,26 @@
+## mujoco_vender (jazzy) - 0.1.2-2
+
+The packages in the `mujoco_vender` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release mujoco_vender -t jazzy -r jazzy --edit-track` on `Thu, 19 Nov 2026 18:18:28 -0000`
+
+The `mujoco_vendor` package was released.
+
+Version of package(s) in repository `mujoco_vender`:
+
+- upstream repository: https://github.com/clearpathrobotics/mujoco_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.1.2-1`
+- new version: `0.1.2-2`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## mujoco_vendor (humble) - 0.1.2-1
 
 The packages in the `mujoco_vendor` repository were released into the `humble` distro by running `/home/saikishor/venv/bloom/bin/bloom-release --rosdistro humble --track humble mujoco_vendor -y` on `Thu, 05 Nov 2026 09:37:14 -0000`
